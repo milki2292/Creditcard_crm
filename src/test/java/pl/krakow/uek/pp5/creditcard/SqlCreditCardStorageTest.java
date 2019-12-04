@@ -3,7 +3,9 @@ package pl.krakow.uek.pp5.creditcard;
 import org.junit.Test;
 import pl.krakow.uek.pp5.creditcard.model.CreditCard;
 
-import static org.junit.Assert.assertThat;
+import static org.assertj.core.api.Assertions.assertThat;
+
+
 
 public class SqlCreditCardStorageTest {
     @Test
