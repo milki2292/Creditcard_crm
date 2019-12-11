@@ -1,8 +1,6 @@
-package pl.krakow.uek.pp5.creditcard.model;
+package pl.krakow.uek.pp5.bank.creditcard.model;
 
 import org.springframework.jdbc.core.JdbcTemplate;
-import pl.krakow.uek.pp5.creditcard.model.CreditCard;
-import pl.krakow.uek.pp5.creditcard.model.CreditCardStorage;
 
 import java.util.List;
 

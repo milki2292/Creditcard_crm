@@ -1,9 +1,9 @@
-package pl.krakow.uek.pp5.creditcard.model;
+package pl.krakow.uek.pp5.bank.creditcard.model;
 
 import org.junit.Assert;
 import org.junit.Test;
-import pl.krakow.uek.pp5.creditcard.model.exceptions.CreditBelowLimitException;
-import pl.krakow.uek.pp5.creditcard.model.exceptions.NotEnoughMoneyException;
+import pl.krakow.uek.pp5.bank.creditcard.model.exceptions.CreditBelowLimitException;
+import pl.krakow.uek.pp5.bank.creditcard.model.exceptions.NotEnoughMoneyException;
 
 import java.math.BigDecimal;
 

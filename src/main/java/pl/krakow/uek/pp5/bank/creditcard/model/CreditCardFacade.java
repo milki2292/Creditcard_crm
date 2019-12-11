@@ -1,4 +1,4 @@
-package pl.krakow.uek.pp5.creditcard.model;
+package pl.krakow.uek.pp5.bank.creditcard.model;
 
 public class CreditCardFacade {
     private final CreditCardStorage storage;

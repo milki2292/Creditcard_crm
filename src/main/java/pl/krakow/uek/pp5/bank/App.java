@@ -1,4 +1,4 @@
-package pl.krakow.uek.pp5.creditcard;
+package pl.krakow.uek.pp5.bank;
 
 
 import org.springframework.boot.SpringApplication;

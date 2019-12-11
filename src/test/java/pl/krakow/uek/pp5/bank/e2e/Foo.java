@@ -1,4 +1,4 @@
-package pl.krakow.uek.pp5.creditcard.e2e;
+package pl.krakow.uek.pp5.bank.e2e;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -9,8 +9,8 @@ import org.springframework.boot.web.server.LocalServerPort;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.test.context.junit4.SpringRunner;
-import pl.krakow.uek.pp5.creditcard.model.CreditCardFacade;
-import pl.krakow.uek.pp5.creditcard.model.dto.CardBlanceDto;
+import pl.krakow.uek.pp5.bank.creditcard.model.CreditCardFacade;
+import pl.krakow.uek.pp5.bank.creditcard.model.dto.CardBlanceDto;
 
 import static org.assertj.core.api.Assertions.assertThat;
 

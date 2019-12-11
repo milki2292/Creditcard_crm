@@ -1,7 +1,7 @@
 
 
 
-package pl.krakow.uek.pp5.creditcard.model.dto;
+package pl.krakow.uek.pp5.bank.creditcard.model.dto;
 
 import java.math.BigDecimal;
 

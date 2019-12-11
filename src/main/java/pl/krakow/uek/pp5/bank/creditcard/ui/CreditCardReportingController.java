@@ -1,17 +1,16 @@
 
 
 
-package pl.krakow.uek.pp5.creditcard.ui;
+package pl.krakow.uek.pp5.bank.creditcard.ui;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-import pl.krakow.uek.pp5.creditcard.model.CreditCardFacade;
-import pl.krakow.uek.pp5.creditcard.model.WithdrawCommand;
-import pl.krakow.uek.pp5.creditcard.model.dto.CardBlanceDto;
+import pl.krakow.uek.pp5.bank.creditcard.model.CreditCardFacade;
+import pl.krakow.uek.pp5.bank.creditcard.model.WithdrawCommand;
+import pl.krakow.uek.pp5.bank.creditcard.model.dto.CardBlanceDto;
 
 import java.math.BigDecimal;
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.List;
 
 @RestController

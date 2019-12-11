@@ -2,7 +2,7 @@
 
 
 
-package pl.krakow.uek.pp5.creditcard.model;
+package pl.krakow.uek.pp5.bank.creditcard.model;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
